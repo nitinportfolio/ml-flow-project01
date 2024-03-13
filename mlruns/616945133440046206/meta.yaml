@@ -1,0 +1,6 @@
+artifact_location: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/616945133440046206
+creation_time: 1710236101667
+experiment_id: '616945133440046206'
+last_update_time: 1710236101667
+lifecycle_stage: active
+name: Loan_prediction

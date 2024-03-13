@@ -1,0 +1,6 @@
+artifact_location: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/787544631893536014
+creation_time: 1710236213426
+experiment_id: '787544631893536014'
+last_update_time: 1710236213426
+lifecycle_stage: active
+name: Demo_Experiment

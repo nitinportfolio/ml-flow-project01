@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/616945133440046206/1a93c176a4744b33aa432c4027c69b5d/artifacts
+end_time: 1710310962134
+entry_point_name: ''
+experiment_id: '616945133440046206'
+lifecycle_stage: active
+run_id: 1a93c176a4744b33aa432c4027c69b5d
+run_name: valuable-bear-467
+run_uuid: 1a93c176a4744b33aa432c4027c69b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710310961271
+status: 3
+tags: []
+user_id: ubuntu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/616945133440046206/ce499e69269949128f24b138ef1fef86/artifacts
+end_time: 1710310647795
+entry_point_name: ''
+experiment_id: '616945133440046206'
+lifecycle_stage: active
+run_id: ce499e69269949128f24b138ef1fef86
+run_name: skillful-wasp-563
+run_uuid: ce499e69269949128f24b138ef1fef86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710310646170
+status: 3
+tags: []
+user_id: ubuntu

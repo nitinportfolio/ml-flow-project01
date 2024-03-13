@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/616945133440046206/cc229b964c084cde8e26c1b5bda32b9a/artifacts
+end_time: 1710236306874
+entry_point_name: ''
+experiment_id: '616945133440046206'
+lifecycle_stage: active
+run_id: cc229b964c084cde8e26c1b5bda32b9a
+run_name: thoughtful-ape-297
+run_uuid: cc229b964c084cde8e26c1b5bda32b9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710236305394
+status: 3
+tags: []
+user_id: ubuntu

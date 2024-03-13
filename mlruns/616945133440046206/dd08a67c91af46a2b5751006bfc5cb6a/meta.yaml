@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/616945133440046206/dd08a67c91af46a2b5751006bfc5cb6a/artifacts
+end_time: 1710310751358
+entry_point_name: ''
+experiment_id: '616945133440046206'
+lifecycle_stage: active
+run_id: dd08a67c91af46a2b5751006bfc5cb6a
+run_name: colorful-zebra-634
+run_uuid: dd08a67c91af46a2b5751006bfc5cb6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710310750489
+status: 3
+tags: []
+user_id: ubuntu

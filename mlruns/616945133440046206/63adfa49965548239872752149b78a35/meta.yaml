@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/616945133440046206/63adfa49965548239872752149b78a35/artifacts
+end_time: 1710236102943
+entry_point_name: ''
+experiment_id: '616945133440046206'
+lifecycle_stage: active
+run_id: 63adfa49965548239872752149b78a35
+run_name: carefree-fox-362
+run_uuid: 63adfa49965548239872752149b78a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710236101691
+status: 3
+tags: []
+user_id: ubuntu

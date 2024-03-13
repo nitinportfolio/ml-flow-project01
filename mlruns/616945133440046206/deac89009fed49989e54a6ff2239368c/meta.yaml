@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/616945133440046206/deac89009fed49989e54a6ff2239368c/artifacts
+end_time: 1710310750487
+entry_point_name: ''
+experiment_id: '616945133440046206'
+lifecycle_stage: active
+run_id: deac89009fed49989e54a6ff2239368c
+run_name: bright-gull-528
+run_uuid: deac89009fed49989e54a6ff2239368c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710310749270
+status: 3
+tags: []
+user_id: ubuntu

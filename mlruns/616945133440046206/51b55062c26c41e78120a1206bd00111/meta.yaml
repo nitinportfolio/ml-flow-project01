@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/616945133440046206/51b55062c26c41e78120a1206bd00111/artifacts
+end_time: 1710311216687
+entry_point_name: ''
+experiment_id: '616945133440046206'
+lifecycle_stage: active
+run_id: 51b55062c26c41e78120a1206bd00111
+run_name: serious-fish-526
+run_uuid: 51b55062c26c41e78120a1206bd00111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710311215470
+status: 3
+tags: []
+user_id: ubuntu

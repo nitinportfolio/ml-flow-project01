@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/616945133440046206/eaa9e762dc8c45b9b767d47b27fdff86/artifacts
+end_time: 1710310649706
+entry_point_name: ''
+experiment_id: '616945133440046206'
+lifecycle_stage: active
+run_id: eaa9e762dc8c45b9b767d47b27fdff86
+run_name: bouncy-grouse-954
+run_uuid: eaa9e762dc8c45b9b767d47b27fdff86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710310648646
+status: 3
+tags: []
+user_id: ubuntu

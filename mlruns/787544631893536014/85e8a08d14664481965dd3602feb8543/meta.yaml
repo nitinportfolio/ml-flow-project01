@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/787544631893536014/85e8a08d14664481965dd3602feb8543/artifacts
+end_time: 1710236213453
+entry_point_name: ''
+experiment_id: '787544631893536014'
+lifecycle_stage: active
+run_id: 85e8a08d14664481965dd3602feb8543
+run_name: Example Demo
+run_uuid: 85e8a08d14664481965dd3602feb8543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710236213446
+status: 3
+tags: []
+user_id: ubuntu

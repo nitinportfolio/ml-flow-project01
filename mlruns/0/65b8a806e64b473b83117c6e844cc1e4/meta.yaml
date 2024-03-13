@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/nitin/mlops/deployment/MLFlow-Manage-ML-Experiments/mlruns/0/65b8a806e64b473b83117c6e844cc1e4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65b8a806e64b473b83117c6e844cc1e4
+run_name: thundering-midge-276
+run_uuid: 65b8a806e64b473b83117c6e844cc1e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710312320378
+status: 1
+tags: []
+user_id: ubuntu
